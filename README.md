@@ -29,3 +29,14 @@ ITERATION# 50 CELL COUNT: 36421
 ![](img/Crystal_Iteration_30.png)
 ![](img/Crystal_Iteration_40.png)
 ![](img/Crystal_Iteration_50.png)
+
+# More Runs
+
+![](img/ml1.png)
+![](img/ml2.png)
+![](img/ml3.png)
+![](img/ml4.png)
+![](img/ml5.png)
+
+
+
