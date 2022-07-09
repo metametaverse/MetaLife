@@ -1,5 +1,14 @@
 # MetaLife
 
+#v 0.2
+![](https://youtu.be/g4uKRQw9PjY)
+![](img/f1.png)
+![](img/f2.png)
+![](img/f3.png)
+![](img/f4.png)
+![](img/f5.png)
+
+
 How to run at MacBook: 
 1. Install .Net https://docs.microsoft.com/en-us/dotnet/core/install/macos
 2. Install Visual Studio Code
